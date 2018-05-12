@@ -1,0 +1,27 @@
+_repo: The-Discovery-of-Witches_14015
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hopkins, Matthew
+    deathdate: 1647
+    gutenberg_agent_id: '5331'
+    url: http://www.gutenberg.org/2009/agents/5331
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Hopkins
+description: ''
+gutenberg_bookshelf: Witchcraft
+gutenberg_issued: '2004-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- England'
+- !lcc 'BF'
+title: The Discovery of Witches
+url: http://www.gutenberg.org/ebooks/14015
