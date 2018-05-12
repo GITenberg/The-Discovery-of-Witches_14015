@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5331
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Hopkins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14015#The-Discovery-of-Witches
 gutenberg_bookshelf: Witchcraft
 gutenberg_issued: '2004-11-10'
 gutenberg_type: Text
